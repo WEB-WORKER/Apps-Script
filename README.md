@@ -1,2 +1,2 @@
 # Apps Script
-Скрипты для Google Apps scripts
+Скрипты для Google Apps Script
